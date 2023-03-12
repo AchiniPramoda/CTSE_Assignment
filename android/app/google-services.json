@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30070228437",
+    "project_id": "ctse-51d93",
+    "storage_bucket": "ctse-51d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30070228437:android:7ba1867c6629467985a95c",
+        "android_client_info": {
+          "package_name": "com.example.exerciseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30070228437-dcd68dt59f7726cebdg8prv9fflbququ.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZeSj3ZjZlWg71hYbYcMbM2LYyU4RsUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30070228437-dcd68dt59f7726cebdg8prv9fflbququ.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
